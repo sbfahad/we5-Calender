@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">We5 Calender</string>
+    <string name="previous"><![CDATA[<-]]></string>
+    <string name="next"><![CDATA[->]]></string>
+</resources>
